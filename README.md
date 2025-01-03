@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavjaiswal21&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavjaiswal21" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking for internship **Frontend Development**
 
